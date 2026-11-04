@@ -1,0 +1,5 @@
+﻿Thí nghiệm,Accuracy,Precision_macro,Recall_macro,F1_macro
+TN1 - Mean+Std RGB / KNN,1.0,1.0,1.0,1.0
+TN2 - Mean+Std HSV / KNN,1.0,1.0,1.0,1.0
+TN3 - Histogram HSV / SVM,1.0,1.0,1.0,1.0
+TN4 - Toàn bộ / SVM,1.0,1.0,1.0,1.0
